@@ -1,4 +1,19 @@
 # Getting Started with Create React App
+#Signup
+[![Dummy.png](https://i.postimg.cc/xTMHhHSc/Dummy.png)](https://postimg.cc/QHNHWFC3)
+#Dummy
+[![signup.png](https://i.postimg.cc/kgMrzQtc/signup.png)](https://postimg.cc/fJPg00Ct)
+#Login
+[![Login.png](https://i.postimg.cc/BbGDnQTq/Login.png)](https://postimg.cc/gXNrMpt5)
+#Cards
+[![Cards.png](https://i.postimg.cc/sgKBC4HD/Cards.png)](https://postimg.cc/tsZRhWHL)
+# current location
+[![Current-Location.png](https://i.postimg.cc/xjFtnL75/Current-Location.png)](https://postimg.cc/8sMhbfTf)
+#PinLocation
+[![pinlocation.png](https://i.postimg.cc/MGCqCcwp/pinlocation.png)](https://postimg.cc/GBxWYm9W)
+#citywise card name
+[![card-Namecity.png](https://i.postimg.cc/tg0cyFsw/card-Namecity.png)](https://postimg.cc/yDPjygXy)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
